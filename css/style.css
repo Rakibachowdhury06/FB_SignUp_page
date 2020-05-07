@@ -1,0 +1,157 @@
+*{
+margin:0;
+padding:0;
+}
+
+body{font-family:sans-serif;}
+header{background:#3d5b99;
+height:82px;
+border-bottom:1px solid #0c3280;}
+
+.header1 {
+	width:70%;
+    margin:0 auto;
+    padding-top:20px;}
+
+.fblogo {
+	width:50%;
+	float:left;
+}
+
+.fblogin {
+	width:50%;
+	float:left;}
+
+.fblogo img{
+	padding-top:5px;
+    padding-bottom:20px;}
+
+ .header1 label{color:#fff7ff;}
+
+ .email {float:left;}
+
+ .email label{font-size:14px;padding-bottom:15px;}
+ .email input[type="text"]{height:14px;width:150px;}
+
+ .password {float:left;margin-left:20px;}
+
+ .password label{font-size:14px;padding-bottom:15px;}
+  .password input[type="password"]{height:14px;width:150px;}
+  .password a{color:#94b1ed;text-decoration:none;font-size:15px;}
+
+ .login-button {float:left;
+                 margin-top:20px;
+                 }
+
+ .login-button input[type="submit"]{
+ 	     							color:white;
+ 	     							background:#4268b3;
+ 	     							border:1px solid #284881;
+ 	     							height:20px;
+ 	     							width:50px;
+ 	     							margin-left:10px;}
+
+
+.left-area{float:left;
+		margin-left:250px;
+		clear:both}
+
+.fb-connect p{color:#3a3a76;
+			font-size:20px;
+			font-weight:bold;
+			padding-top: 20px;}
+
+h2{font-size:28px;
+	margin-top: 15px;}
+
+
+.bio {float:right;width:50%;
+		margin-top:0 auto;}
+
+.bkground {
+	background: linear-gradient(#ffffff,#D5D9E9); 
+    overflow: hidden;
+	width: 100%;}
+
+
+.name input[type="text"]{height:12px;
+	width:200px;
+	padding-top:10px;
+	padding-left:5px;
+	padding-bottom:10px;
+  	border-style: solid; color: #c3c6cd;
+  	border-width: 1px;
+  	border-radius:6px;
+  	font-size:17px;
+  	overflow: hidden;
+  	}
+
+
+ .mobile-email input[type="text"]{height:12px;
+	width:415px;padding-top:10px;
+	padding-left:5px;
+	padding-bottom:10px;
+	border-style: solid; color: #c3c6cd;
+  	border-radius:6px;
+  	border-width: 1px;
+  	font-size:17px;}
+
+
+ .newpassword input[type="password"]{height:12px;
+	width:415px;padding-top:10px;
+	padding-left:5px;
+	padding-bottom:10px;
+	border-style: solid; color: #c3c6cd;
+  	border-radius:6px;
+  	border-width: 1px;
+   	font-size:17px;}
+
+ h4{color:#9492a0;
+  	font-size:15px;
+  	padding-bottom:15px;
+  	font-weight:bold;}
+
+
+.text a{color:#97a8c6;
+		text-decoration:none;
+		font-size:10px;}
+
+
+.text {color:#4a5374;
+		font-size:10px;}
+
+
+
+.signup input{
+			color:white;
+ 	     	background:#67a854;
+ 	     	border:1px solid #476144;
+ 	     	height:18px;
+ 	     	width:150px;
+ 	     	padding-top:5px;
+ 	     	padding-bottom:20px;
+ 	     	border-radius:5px;
+ 	     	text-align:center;
+ 	        font-weight:bold;
+ 	        font-size:15px;}
+
+
+ .bdate select{padding:5px;margin-left:0px;}
+
+ .celebrity{color:#4a5374;
+		font-size:12px;
+		font-weight:bold;}
+
+
+.celebrity a{color:#97a8c6;
+		font-size:12px;
+		font-weight:bold;
+		text-decoration:none}		
+
+.first-name{float: left;
+			width:200px;
+			margin-right: 15px;}
+.last-name{float:left;
+			width:200px;
+			margin-left: 0 auto;
+			padding-right:0px;}
